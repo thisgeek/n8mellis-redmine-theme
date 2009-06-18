@@ -143,4 +143,7 @@ hr { background:#eee none repeat scroll 0% 0%; }
 	#content a[href]:after { content: " (" attr(href) ") "; font-size: 90%; }
 	#content .external { background-image: none; padding-left: 0; }
 	#wiki_add_attachment { display:none; }
+	.wiki h1 { font-size: 24pt; }
+	.wiki h2 { font-size: 20pt; }
+	.wiki h3 { font-size: 16pt; }
 }
